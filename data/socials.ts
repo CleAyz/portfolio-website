@@ -9,19 +9,19 @@ export const socials: SocialLink[] = [
   {
     id: "github",
     label: "GitHub",
-    href: "https://github.com/yourusername",
+    href: "https://github.com/CleAyz",
     icon: "github",
   },
   {
     id: "linkedin",
     label: "LinkedIn",
-    href: "https://linkedin.com/in/yourusername",
+    href: "https://linkedin.com/in/clementayz",
     icon: "linkedin",
   },
   {
     id: "email",
     label: "Email",
-    href: "mailto:your.email@example.com",
+    href: "mailto:clementayz@gmail.com",
     icon: "mail",
   },
 ];

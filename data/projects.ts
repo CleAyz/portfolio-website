@@ -83,8 +83,7 @@ export const projects: Project[] = [
     outcome: "Live demo. Solid foundation for future features (blog, dashboard).",
     featured: false,
     links: {
-      github: "https://github.com",
-      demo: "https://demo.example.com",
+      demo: "https://www.skipqq.com",
     },
   },
   {
