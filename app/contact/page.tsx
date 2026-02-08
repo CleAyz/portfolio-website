@@ -27,7 +27,7 @@ export default function ContactPage() {
           </div>
         </div>
 
-        <div>
+        {/* <div>
           <h3 className="text-lg font-semibold text-neutral-900 dark:text-white">
             Send a message
           </h3>
@@ -37,7 +37,7 @@ export default function ContactPage() {
           <div className="mt-6">
             <ContactForm />
           </div>
-        </div>
+        </div> */}
       </div>
     </Section>
   );
